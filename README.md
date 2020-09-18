@@ -2,3 +2,4 @@
 
 # Alumnos:
 José Alberto Márquez Luján
+Paulina Garza Allende
