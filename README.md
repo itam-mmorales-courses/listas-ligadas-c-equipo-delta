@@ -1,9 +1,10 @@
-# com11103-listas-c
+# com11103-listas-cz 
 
-<<<<<<< HEAD
 
-=======
 # Alumnos:
 José Alberto Márquez Luján
 
-Paulina Garza Allende 
+Paulina Garza Allende
+
+Luis Fernando Ramirez
+
