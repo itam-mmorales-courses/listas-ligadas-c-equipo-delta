@@ -8,3 +8,5 @@ Paulina Garza Allende
 
 Luis Fernando Ramirez
 
+Falta: Dante Figueroa
+
